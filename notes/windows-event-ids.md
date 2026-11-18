@@ -30,6 +30,7 @@
 | 0xC0000064 | Username does not exist (many = username guessing) |
 
 ## Useful PowerShell
+```powershell
 Get-WinEvent -FilterHashtable @{LogName='Security'; Id=4625} -MaxEvents 10
 ```
 
