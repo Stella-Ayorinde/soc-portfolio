@@ -3,7 +3,7 @@ Hands-on blue team work: alert investigations, home lab builds, and detection ru
 
 ## Contents
 - [Windows Event IDs & Logon Types](notes/windows-event-ids.md)
-- Investigations: - [SOC114 – Malicious Attachment Detected](investigations/SOC114-malicious-attachment.md)
+- Investigations: [SOC114 – Malicious Attachment Detected](investigations/SOC114-malicious-attachment.md)
 - Home Lab: coming soon
 - Detections: coming soon
 
